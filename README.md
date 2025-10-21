@@ -49,15 +49,15 @@
 
 ## Screenshots
 ### หน้าแรก
-![Home](screenshots/home.png)
+![Home](images/home.png)
 
 ### รายละเอียดร้าน
-![Detail](screenshots/detail.png)
+![Detail](images/detail.png)
 
 ### ฟอร์มรีวิว
-![Review](screenshots/review-form.png)
+![Review](images/review-form.png)
 
-![Review](screenshots/review-form.png)
+![Review](images/review-form.png)
 
 ## ผู้พัฒนา
 - นาย ภูริณัฐ เต๋จ๊ะ

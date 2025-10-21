@@ -55,9 +55,9 @@
 ![Detail](images/Detail.png)
 
 ### ฟอร์มรีวิว
-![Review](images/review-form.png)
+![Review](images/Review1.png)
 
-![Review](images/review-form.png)
+![Review](images/Review2.png)
 
 ## ผู้พัฒนา
 - นาย ภูริณัฐ เต๋จ๊ะ

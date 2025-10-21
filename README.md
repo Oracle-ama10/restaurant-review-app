@@ -49,10 +49,10 @@
 
 ## Screenshots
 ### หน้าแรก
-![Home](images/home.png)
+![Home](images/Home.png)
 
 ### รายละเอียดร้าน
-![Detail](images/detail.png)
+![Detail](images/Detail.png)
 
 ### ฟอร์มรีวิว
 ![Review](images/review-form.png)
